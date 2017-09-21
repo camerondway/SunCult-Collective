@@ -28,6 +28,8 @@ destination: _site
 
 # Build settings
 markdown: kramdown
+sass:
+    sass_dir: _sass
 plugins:
   - jekyll-feed
 # Exclude from processing.
